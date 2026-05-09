@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "LifeLine",
+    "slug": "life-line",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    
+    "userInterfaceStyle": "light",
+    "splash": {
+    
+      "resizeMode": "contain",
+      "backgroundColor": "#E53935"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lifeline.blooddonation"
+    },
+    "android": {
+      "adaptiveIcon": {
+    
+        "backgroundColor": "#E53935"
+      },
+      "package": "com.lifeline.blooddonation"
+    },
+    "plugins": [],
+    
+    "extra": {
+      "eas": {
+        "projectId": "f9cbca09-5dd3-4e88-869a-d44b2a6710c4"
+      }
+    },
+    "owner": "vasanth99"
+  }
+}
